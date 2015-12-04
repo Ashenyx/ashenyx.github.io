@@ -1,0 +1,15 @@
+Package: com.ashenyx.SwitcherDock-Beta
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Ashenyx <ashenyxcode@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate
+Filename: ./debs/com.ashenyx.SwitcherDock-Beta_1.0-1_iphoneos-arm.deb
+Size: 6000
+MD5sum: 55e03e8cb2f8562366f947a1309e71b9
+SHA1: 134a71131a4d17433ed99999c83ffa46a388d0de
+SHA256: 694d44158ad5d532920e58587fa6bdc42b2b5df403785e13dfb09fee51b2e7d6
+Section: Tweaks
+Description: Place your dock under your multi-tasking switcher cards!
+Author: Andy Shin <andrewcinn@gmail.com>
+Depiction: http://ashenyx.github.io/cydia/projectblue/depic/com.ashenyx.SwitcherDock-Beta.html
+Name: SwitcherDock
