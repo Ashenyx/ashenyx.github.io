@@ -6,9 +6,9 @@ margin: 0;
 font-family: helvetica;
 }
 .cell {
-width: 100%;
+width: 96%;
 background: white;
 margin-bottom: 15px;
-padding: 5px;
+padding:2%;
 text-align: center;
 }
