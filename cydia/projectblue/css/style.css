@@ -6,21 +6,12 @@ margin: 0;
 font-family: helvetica;
 }
 
-.index-cell{
-width: 96%;
-background: white;
-margin-bottom: 30px;
-padding:2%;
-text-align: center;
-border-bottom: solid rgb(235,235,235) 2px;
-}
-
 .cell {
-width: 96%;
+width: 92%;
 background: white;
 margin-bottom: 30px;
-padding:2%;
+padding:4%;
 text-align: center;
-border-top: solid rgb(235,235,235) 2px;
-border-bottom: solid rgb(235,235,235) 2px;
+border-top: solid lightgray 3px;
+border-bottom: solid lightgray 3px;
 }
