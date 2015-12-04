@@ -5,6 +5,14 @@ margin: 0;
 *{
 font-family: helvetica;
 }
+.index-cell{
+width: 96%;
+background: white;
+margin-bottom: 15px;
+padding:2%;
+text-align: center;
+border-bottom: solid rgb(235,235,235) 1px;
+}
 
 .cell {
 width: 96%;
@@ -12,6 +20,6 @@ background: white;
 margin-bottom: 15px;
 padding:2%;
 text-align: center;
-border-top: solid #777777 1px;
-border-bottom: solid #777777 1px;
+border-top: solid rgb(235,235,235) 1px;
+border-bottom: solid rgb(235,235,235) 1px;
 }
