@@ -12,6 +12,6 @@ background: white;
 margin-bottom: 30px;
 padding:4%;
 text-align: center;
-border-top: solid lightgray 3px;
-border-bottom: solid lightgray 3px;
+border-top: solid #333333 3px;
+border-bottom: solid #333333 3px;
 }
